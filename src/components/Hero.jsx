@@ -32,4 +32,4 @@ const Hero = () => {
   )
 }
 
-export default Her
+export default Hero
