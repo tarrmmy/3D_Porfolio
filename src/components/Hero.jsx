@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 
 import { styles  } from '../styles';
 import { ComputersCanvas } from './canvas';
@@ -29,7 +29,7 @@ const Hero = () => {
         </div>
         <ComputersCanvas />
 
-        <div 
+        {/* <div 
             className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center '>
             <a href="#about">
                 <div className="w-[30px] h-[50px] items-start justify-center rounded-3xl border-4 border-secondary p-2 ">
@@ -46,7 +46,7 @@ const Hero = () => {
                     />
                 </div>
             </a>
-        </div>
+        </div> */}
     </section>
   )
 }
