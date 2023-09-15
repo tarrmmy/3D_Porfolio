@@ -11,10 +11,11 @@ import {
     redux,
     tailwind,
     nodejs,
-    mongodb,
+    // mongodb,
     git,
     figma,
-    docker,
+    // docker,
+    bootstrap,
     meta,
     starbucks,
     tesla,
@@ -93,8 +94,8 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "Bootstrap",
+      icon: bootstrap,
     },
     {
       name: "Three JS",
@@ -108,10 +109,10 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const experiences = [

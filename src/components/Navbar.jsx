@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import { Link } from "react-router-dom";
 import { styles } from '../styles';
-import { logo, menu, close } from '../assets'
+import { logo, menu, close, logo2 } from '../assets'
 // import {logo2} from "../assets/myimage/logo2.png"
 import { navLinks} from "../constants"
 
@@ -26,7 +26,7 @@ const Navbar = () => {
                 }}
             >
                 <img 
-                    src={logo}
+                    src={logo2}
                     alt='logo'
                     className='w-9 h-9 object-contain'
                />
