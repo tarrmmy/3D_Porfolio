@@ -30,7 +30,7 @@ const Navbar = () => {
                     alt='logo'
                     className='w-9 h-9 object-contain'
                />
-               <p className='text-white text-[18px font-bold flex cursor-pointer]'>Ibraheem &nbsp; 
+               <p className='text-white text-[18px font-bold flex sm:hidden cursor-pointer]'>Ibraheem &nbsp; 
                     <span className='sm:block hidden'>| Qomorudeen</span>
                 </p>
             </Link>
