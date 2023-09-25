@@ -34,7 +34,7 @@ const About = () => {
     <>
         <motion.div variants={textVariant()}>
             <p className={styles.sectionSubText}>
-                Inroduction
+                Introduction
             </p>
             <h2 className={styles.sectionHeadText}>Overview</h2>
         </motion.div> 
@@ -43,9 +43,10 @@ const About = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has 
-            been the industry's standard dummy text ever since the 1500s, when an unknown printer took 
-            a galley of type and scrambled it to make a type specimen book
+            As an upcoming front-end developer, I am in a good position to take advantage 
+            of my skills and succeed. I have created and developed e-commerce systems and 
+            extremely responsive websites using cutting-edge programming languages. I enjoy 
+            learning new things and am a good team player. I enjoy giving lectures and learning new things.
         </motion.p>
 
         <div

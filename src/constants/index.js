@@ -21,9 +21,15 @@ import {
     starbucks,
     tesla,
     // shopify,
-    carrent,
-    jobit,
-    tripguide,
+    // carrent,
+    // jobit,
+    // tripguide,
+    coorporate,
+    estateplus,
+    famille,
+    zeroadmin,
+    zeroweb,
+
     threejs,
   } from "../assets";
   
@@ -200,7 +206,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Coorporate Setup",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -217,11 +223,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: coorporate,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Estate Plus",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -238,11 +244,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: estateplus,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Famille",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -259,7 +265,49 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: famille,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Zero Interest",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: zeroweb,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Zero Admin",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: zeroadmin,
       source_code_link: "https://github.com/",
     },
   ];

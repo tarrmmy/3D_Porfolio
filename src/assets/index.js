@@ -10,6 +10,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
+// Skills images
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -26,14 +27,21 @@ import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.png";
 // import antd from "./tech/antd.png"
 
+// Experience images
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+// Projects images
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import zeroadmin from "./zeroadmin.png";
+import zeroweb from "./zeroweb.png";
+import coorporate from "./coorporate.png";
+import famille from "./famille.png";
+import estateplus from "./estateplus.png"
 
 export {
   logo,
@@ -69,4 +77,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  zeroadmin,
+  zeroweb,
+  estateplus,
+  famille,
+  coorporate
 };
