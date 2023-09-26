@@ -70,12 +70,11 @@ const Works = () => {
 
         <div className="w-full flex">
             <motion.p 
-            variants={fadeIn("", "", 0.1, 1)}
-            className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-                Mauris cursus semper orci tempor venenatis. Pellentesque aliquam eget turpis at congue. 
-                Phasellus molestie sem nec nibh vehicula, ut pretium mauris interdum. Integer dui justo, 
-                semper id consectetur at, elementum in justo. Aenean aliquam, nulla ut scelerisque condimentum, 
-                ipsum neque auctor elit, sed facilisis orci neque vel orci.
+                variants={fadeIn("", "", 0.1, 1)}
+                className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+                I have designed and developed highly responsive websites and e-commerce 
+                solutions using advanced programming languages as well as contributing to some.  
+                {/* Most of these projects have been deployed while some are yet to be deployed.  */}
             </motion.p>
         </div>
 

@@ -31,6 +31,7 @@ import {
     zeroweb,
 
     threejs,
+    github,
   } from "../assets";
   
   export const navLinks = [
@@ -80,10 +81,10 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    // {
-    //   name: "Ant Design",
-    //   icon: antd,
-    // },
+    {
+      name: "Github",
+      icon: github,
+    },
     {
       name: "React JS",
       icon: reactjs,
@@ -128,7 +129,7 @@ import {
       company_name: "Techend Ltd",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2022 - Jan 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "To produce high-quality products, I work with cross-functional teams that include designers, product managers, and other developers.",
@@ -137,11 +138,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Technical Business Consultant",
+      company_name: "Gritty Minds Concept",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Feb 2023 -  Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

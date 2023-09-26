@@ -46,7 +46,7 @@ const About = () => {
             As an upcoming front-end developer, I am in a good position to take advantage 
             of my skills and succeed. I have created and developed e-commerce systems and 
             extremely responsive websites using cutting-edge programming languages. I enjoy 
-            learning new things and am a good team player. I enjoy giving lectures and learning new things.
+            learning new things and I am a good team player. I also enjoy giving lectures and learning new things.
         </motion.p>
 
         <div
