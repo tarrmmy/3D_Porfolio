@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import logo3 from "./logo3.png";
+import logo4 from "./logo4.png";
 import logo2 from "./logo2.png";
 import logo1 from "./logo1.svg";
 import backend from "./backend.png";
@@ -46,6 +47,7 @@ import estateplus from "./estateplus.png"
 
 export {
   logo,
+  logo4,
   logo3,
   logo2,
   logo1,

@@ -74,7 +74,8 @@ const Works = () => {
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
                 I have designed and developed highly responsive websites and e-commerce 
                 solutions using advanced programming languages as well as contributing to some.  
-                {/* Most of these projects have been deployed while some are yet to be deployed.  */}
+                Here are selection of projects to which I have lent my expertise, 
+                alongside a handful that I have personally spearheaded.
             </motion.p>
         </div>
 

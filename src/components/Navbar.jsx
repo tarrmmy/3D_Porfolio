@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import { Link } from "react-router-dom";
 import { styles } from '../styles';
-import { logo, menu, close, logo2 } from '../assets'
+import {  menu, close, logo4 } from '../assets'
 // import {logo2} from "../assets/myimage/logo2.png"
 import { navLinks} from "../constants"
 
@@ -26,9 +26,9 @@ const Navbar = () => {
                 }}
             >
                 <img 
-                    src={logo2}
+                    src={logo4}
                     alt='logo'
-                    className='w-9 h-9 object-contain'
+                    className='w-10 h-10 object-contain'
                />
                <p className='text-white text-[18px font-bold flex sm:hidden cursor-pointer]'>Ibraheem &nbsp; 
                     <span className='sm:block hidden'>| Qomorudeen</span>
