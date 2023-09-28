@@ -209,7 +209,7 @@ import {
     {
       name: "Coorporate Setup",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A platform that allows users to incorporate business and also helps tostore and transport securely, their official document ",
       tags: [
         {
           name: "react",
@@ -278,9 +278,9 @@ import {
       source_code_link: "https://famillie.surge.sh/",
     },
     {
-      name: "Zero Interest",   // hello world
+      name: "Zero Interest",  
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An application that helps to manage the cooporative banking processes of a cooporative banking society.",
       tags: [
         {
           name: "react",
@@ -305,7 +305,7 @@ import {
     {
       name: "Zero Admin",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An admin interface of the zero application where certain assigned executives have access to the society's analytics, viewing , processing and approval of users requests.",
       tags: [
         {
           name: "react",
