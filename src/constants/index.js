@@ -1,29 +1,17 @@
 import {
     mobile,
-    // backend,
-    // creator,
     web,
     javascript,
-    // antd,
-    // typescript,
     html,
     css,
     reactjs,
     redux,
     tailwind,
-    // nodejs,
-    // mongodb,
     git,
     figma,
-    // docker,
     bootstrap,
-    // meta,
     starbucks,
     tesla,
-    // shopify,
-    // carrent,
-    // jobit,
-    // tripguide,
     coorporate,
     estateplus,
     famille,
@@ -58,14 +46,6 @@ import {
       title: "Dynamics 365 Developer",
       icon: mobile,
     },
-    // {
-    //   title: "Backend Developer",
-    //   icon: backend,
-    // },
-    // {
-    //   title: "Content Creator",
-    //   icon: creator,
-    // },
   ];
   
   const technologies = [
@@ -113,14 +93,7 @@ import {
       name: "git",
       icon: git,
     },
-    // {
-    //   name: "figma",
-    //   icon: figma,
-    // },
-    // {
-    //   name: "docker",
-    //   icon: docker,
-    // },
+   
   ];
   
   const experiences = [
