@@ -8,7 +8,7 @@ import {
     redux,
     tailwind,
     git,
-    figma,
+    // figma,
     bootstrap,
     starbucks,
     tesla,
@@ -77,10 +77,6 @@ import {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    // {
-    //   name: "Node JS",
-    //   icon: nodejs,
-    // },
     {
       name: "Bootstrap",
       icon: bootstrap,
