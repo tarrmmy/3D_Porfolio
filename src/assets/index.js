@@ -36,14 +36,12 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 // Projects images
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import zeroadmin from "./zeroadmin.png";
 import zeroweb from "./zeroweb.png";
 import coorporate from "./coorporate.png";
 import famille from "./famille.png";
 import estateplus from "./estateplus.png"
+import quams from "./quams.png"
 
 export {
   logo,
@@ -81,6 +79,7 @@ export {
   jobit,
   tripguide,
   zeroadmin,
+  quams,
   zeroweb,
   estateplus,
   famille,

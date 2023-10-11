@@ -16,6 +16,7 @@ import {
     estateplus,
     famille,
     zeroadmin,
+    quams,
     zeroweb,
 
     threejs,
@@ -268,6 +269,31 @@ import {
         },
       ],
       image: zeroadmin,
+      source_code_link: "",
+    },
+    {
+      name: "Quams Portfolio",
+      description:
+        "An admin interface of the zero application where certain assigned executives have access to the society's analytics, viewing , processing and approval of users requests.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "laravel",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: quams,
       source_code_link: "",
     },
   ];
