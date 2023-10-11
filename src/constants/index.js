@@ -8,7 +8,6 @@ import {
     redux,
     tailwind,
     git,
-    // figma,
     bootstrap,
     starbucks,
     tesla,
@@ -277,24 +276,17 @@ import {
         "An admin interface of the zero application where certain assigned executives have access to the society's analytics, viewing , processing and approval of users requests.",
       tags: [
         {
-          name: "react",
+          name: "react + vite",
           color: "blue-text-gradient",
         },
-        {
-          name: "laravel",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
+       
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: quams,
-      source_code_link: "",
+      source_code_link: "#",
     },
   ];
   
