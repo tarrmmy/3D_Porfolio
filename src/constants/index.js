@@ -12,6 +12,7 @@ import {
     starbucks,
     tesla,
     coorporate,
+    portfolio,
     estateplus,
     famille,
     zeroadmin,
@@ -268,6 +269,31 @@ import {
         },
       ],
       image: zeroadmin,
+      source_code_link: "",
+    },
+    {
+      name: "My Portfolio",
+      description:
+        "An application that fosters connectivity among family members. Facilitating the transfer of funds among family members, parental control features and seamless conversations with family members.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Three Js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "vite",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
       source_code_link: "",
     },
     {

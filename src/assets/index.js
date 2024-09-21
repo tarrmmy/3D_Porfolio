@@ -33,8 +33,10 @@ import zeroadmin from "./zeroadmin.png";
 import zeroweb from "./zeroweb.png";
 import coorporate from "./coorporate.png";
 import famille from "./famille.png";
-import estateplus from "./estateplus.png"
-import quams from "./quams.png"
+import estateplus from "./estateplus.png";
+import quams from "./quams.png";
+import portfolio from "./myp.png";
+
 
 export {
   logo,
@@ -66,6 +68,7 @@ export {
   quams,
   zeroweb,
   estateplus,
+  portfolio,
   famille,
   coorporate
 };
