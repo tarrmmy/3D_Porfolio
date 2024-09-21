@@ -277,29 +277,26 @@ import {
         "A showcase of dynamic, responsive websites tailored for businesses and individuals seeking clean design and seamless functionality.",
       tags: [
         {
-          name: "react",
+          name: "react + vite",
           color: "blue-text-gradient",
         },
         {
-          name: "Three Js",
+          name: "three Js",
           color: "green-text-gradient",
         },
-        {
-          name: "vite",
-          color: "green-text-gradient",
-        },
+        
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: portfolio,
-      source_code_link: "#",
+      source_code_link: "https://ibrytes.vercel.app/",
     },
     {
       name: "Quams Portfolio",
       description:
-        "An admin interface of the zero application where certain assigned executives have access to the society's analytics, viewing , processing and approval of users requests.",
+        "A comprehensive yet simple website designed to present detailed information about Mr. Abdulraheem Quwam, highlighting his expertise as a data analyst and his current pursuits as a dedicated student.",
       tags: [
         {
           name: "react + vite",
@@ -312,7 +309,7 @@ import {
         },
       ],
       image: quams,
-      source_code_link: "",
+      source_code_link: "https://devquams.vercel.app/",
     },
   ];
   
