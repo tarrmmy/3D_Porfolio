@@ -274,7 +274,7 @@ import {
     {
       name: "My Portfolio",
       description:
-        "An application that fosters connectivity among family members. Facilitating the transfer of funds among family members, parental control features and seamless conversations with family members.",
+        "A showcase of dynamic, responsive websites tailored for businesses and individuals seeking clean design and seamless functionality.",
       tags: [
         {
           name: "react",
