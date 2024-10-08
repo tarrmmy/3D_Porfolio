@@ -25,8 +25,8 @@ import bootstrap from "./tech/bootstrap.png";
 
 // Experience images
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import techend from "./company/techend.png";
+import gmc from "./company/gmc.png";
 
 // Projects images
 import zeroadmin from "./zeroadmin.png";
@@ -62,8 +62,8 @@ export {
   // typescript,
   threejs,
   shopify,
-  starbucks,
-  tesla,
+  techend,
+  gmc,
   zeroadmin,
   quams,
   zeroweb,

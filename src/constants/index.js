@@ -9,8 +9,8 @@ import {
     tailwind,
     git,
     bootstrap,
-    starbucks,
-    tesla,
+    techend,
+    gmc,
     coorporate,
     portfolio,
     estateplus,
@@ -97,7 +97,7 @@ import {
     {
       title: "React.js Developer",
       company_name: "Techend Ltd",
-      icon: starbucks,
+      icon: techend,
       iconBg: "#383E56",
       date: "May 2022 - Jan 2023",
       points: [
@@ -110,7 +110,7 @@ import {
     {
       title: "Dynamics 365 Developer",
       company_name: "Gritty Minds Concept",
-      icon: tesla,
+      icon: gmc,
       iconBg: "#E6DEDD",
       date: "Feb 2023 -  Present",
       points: [
